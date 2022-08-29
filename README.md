@@ -6,9 +6,6 @@
 * [Resources](#resources)
 
 
-## <div id='resources'>Resources</div>
-## <div id='resources'>Resources</div>
-
 ## <div id='basics'>Basic definitions</div>
 
 ### <div id='connectivity'>Connectivity</div>
@@ -62,7 +59,8 @@ such a group of nodes.
 
 
 ## <div id='resources'>Resources</div>
-* https://networkx.org/documentation/stable/reference/algorithms/index.html
+1. [Algorithms, Networkx official docs](https://networkx.org/documentation/stable/reference/algorithms/index.html)
+2. [Graph Theory, Wikipedia.org](https://en.wikipedia.org/wiki/Graph_theory)
 
 
 
